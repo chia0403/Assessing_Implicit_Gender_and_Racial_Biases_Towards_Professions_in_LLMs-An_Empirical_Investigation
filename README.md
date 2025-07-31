@@ -1,4 +1,4 @@
-# LLM Story Project: Story Generation and Character Extraction
+# Assessing Implicit Gender and Racial Biases Towards Professions in LLMs: An Empirical Investigation
 
 This repository contains the data and results of a project that uses Large Language Models (LLMs) to generate stories and extract character information. The project evaluates the model's ability to perform creative generation based on constraints and precise, rule-based information extraction.  It involves using a story generation prompt to create a short story opening featuring a main character with a specified profession and their full name, followed by a name extraction prompt to extract *only* the full name of that character, adhering to strict output rules. Additionally, a prompt to predict the character's race based on their name is included for analysis.
 
